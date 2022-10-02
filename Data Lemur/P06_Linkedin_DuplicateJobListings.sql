@@ -1,3 +1,5 @@
+-- Link = https://datalemur.com/questions/duplicate-job-listings
+
 SELECT (Count(j1.*) - Count(j1.job_id)/2) as duplicate_companies
 FROM job_listings j1
 JOIN job_listings j2 
