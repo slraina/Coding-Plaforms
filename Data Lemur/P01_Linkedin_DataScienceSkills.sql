@@ -1,3 +1,5 @@
+-- Link = https://datalemur.com/questions/matching-skills
+
 With selectedC as 
 (
 SELECT candidate_id 
