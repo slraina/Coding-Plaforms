@@ -1,3 +1,5 @@
+-- Link = https://datalemur.com/questions/laptop-mobile-viewership
+
 SELECT 
 SUM(
   CASE 
