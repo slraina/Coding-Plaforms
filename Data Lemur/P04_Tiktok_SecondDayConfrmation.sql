@@ -1,3 +1,5 @@
+-- Link = https://datalemur.com/questions/second-day-confirmation
+
 SELECT e.user_id
 FROM emails e
 JOIN texts t
